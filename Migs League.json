@@ -1,6 +1,6 @@
 {
-	"Name": "Migs League V10",
-	"Version": 1748150615,
+	"Name": "Migs League V12",
+	"Version": 1748749556,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -243,7 +243,12 @@
 				"264",
 				"225"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"50",
+					"92"
+				]
+			],
 			"KillerComboPerkBans": []
 		},
 		{
@@ -1300,8 +1305,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				8
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1316,10 +1320,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						4
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1434,7 +1435,8 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"39"
+				"39",
+				"53"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1448,8 +1450,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				8
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1464,10 +1465,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						4
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1979,8 +1977,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				8
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1995,10 +1992,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						4
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2707,8 +2701,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2723,10 +2716,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						8,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3077,8 +3067,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3093,10 +3082,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						8,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3155,8 +3141,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3171,10 +3156,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						8,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3232,8 +3214,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3248,10 +3229,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						8,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
