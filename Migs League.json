@@ -1,6 +1,6 @@
 {
 	"Name": "Migs League ",
-	"Version": 1750719465,
+	"Version": 1750989366,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -165,10 +165,6 @@
 				[
 					"261",
 					"95"
-				],
-				[
-					"36",
-					"121"
 				],
 				[
 					"69",
@@ -3252,13 +3248,19 @@
 				797,
 				788
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
