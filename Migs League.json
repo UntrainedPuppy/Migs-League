@@ -1,6 +1,6 @@
 {
 	"Name": "Migs League ",
-	"Version": 1752785478,
+	"Version": 1753632835,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2383,7 +2383,8 @@
 			"IndividualAddonBans": [
 				558,
 				557,
-				555
+				555,
+				554
 			],
 			"ItemWhitelist": [
 				0,
