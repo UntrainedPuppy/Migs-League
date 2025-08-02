@@ -1,6 +1,6 @@
 {
 	"Name": "Migs League ",
-	"Version": 1753632835,
+	"Version": 1754099842,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -622,7 +622,8 @@
 				79,
 				78,
 				76,
-				75
+				75,
+				70
 			],
 			"ItemWhitelist": [
 				0,
